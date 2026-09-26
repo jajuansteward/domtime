@@ -1,2 +1,2 @@
 # dom-time
-bc cis 376 dom class coding. 
+js cis 376 coding for dom class. 
